@@ -8,7 +8,7 @@ an autokite/orbwalker league of legend bot made in C#
 Nothing much to say about this, it's a program to make you more efficient in the summoner's rift
 
 it's made using basic C sharp implementation, i must admit that i don't really know if it's actually bannable (i personnaly think it anticheat proof) but the best way
-to avoid that is too customize it by yourself! The code is open source (it is normally linked to the project by now, i'll show you part of it right under). I've been strongly inspired by a user called -approved-
+to avoid that is to customize it by yourself! The code is open source (it is normally linked to the project by now, i'll show you part of it right under). I've been strongly inspired by a user called -approved-
 
 >https://github.com/approved
 
